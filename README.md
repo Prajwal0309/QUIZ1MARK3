@@ -11,3 +11,5 @@ After playing the quiz ,at the end it will display the score and it is also disp
 ## click here👇
 [![click here](https://img.shields.io/badge/click-here?style=for-the-badge&logo=ko-fi&logoColor=white)](https://replit.com/@faizan119/mark-1/)
 
+# Technology used
+* javascript
